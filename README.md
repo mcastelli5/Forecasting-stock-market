@@ -12,9 +12,13 @@ Specific to the project, the SVR model was found to be less effective than the s
 
 ## Dynamic Time Warping
 
+The objective of Dynamic Time Warping (DTW) is to determine the optimal match between two temporal sequences (time series) by measuring the pattern similarity between the two. DTW is one of many algorithms that is used in time series analysis, and more specifically in an attempt to analyze the financial markets / financial data. This approach focuses on more on the pattern of the data, which bypasses the exhaustive requirement of test and train data that other time series analysis algorithms need.
 
+Specific to the project, DTW was found to be the most effective approach to forecasting the stock market (based on the SPY ETF and the specific time period).
 
 ## Key Lessons
+
+Although cosistently forecasting the stock market is a near impossilbe task, the excerise of applying entirely different algorithms and comparing to baseline approaches produced an understanding that on average there could be better (not optimal) strategies 
 
 
 ## Libraries Used
@@ -24,5 +28,5 @@ Specific to the project, the SVR model was found to be less effective than the s
 - Pandas_datareader
 - Matplotlib
 - Sklearn.svm
-- Scipy.spatial.distance (for Euclidean distance)
+- Scipy.spatial.distance (for DTW Euclidean distance)
 - Fastdtw
