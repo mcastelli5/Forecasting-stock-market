@@ -18,7 +18,7 @@ Specific to the project, DTW was found to be the most effective approach to fore
 
 ## Conclusion
 
-Although cosistently forecasting the stock market is a near impossilbe task, the excerise of applying two entirely different algorithms and comparing them to baseline approaches, outlined a simple overview of how ML models can assist in everyday activites, such as trading. This is just the beginning to understanding the markets, and there are a lot of other factors that are important to consider for more in-depth analysis such as: portfolio construction, risk mitigation, money management, etc...
+Although cosistently forecasting the stock market is a near impossilbe task, the excerise of applying two entirely different algorithms and comparing them to baseline approaches outlined a simple overview of how ML models can assist in everyday activites, such as trading. This is just the beginning to understanding the markets, and there are a lot of other factors that are important to consider for more in-depth analysis such as: portfolio construction, risk mitigation, money management, etc...
 
 ## Language Used
 
