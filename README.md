@@ -14,11 +14,11 @@ Specific to the project, the SVR model was found to be less effective than the s
 
 The objective of Dynamic Time Warping (DTW) is to determine the optimal match between two temporal sequences (time series) by measuring pattern similarities. DTW is one of many algorithms that is used in time series analysis, and more specifically in an attempt to analyze the financial markets / financial data. This approach focuses more on the pattern of the data, which bypasses the exhaustive requirement of test and train data that other time series analysis algorithms need to produce similar features.
 
-Specific to the project, DTW was found to be the most effective approach to forecasting the stock market (based on the SPY ETF and within the specific time period). DTW allowed for a more technical analysis of the SPY ETF stock price, by assessing the statistical trends (patterns).
+Specific to the project, DTW was found to be the most effective approach to forecasting the stock market (based on the SPY ETF and within the specific time period). DTW allowed for a more technical analysis of the SPY ETF stock price, by assessing the statistical trends (patterns). At the end of the jupyter notebook, I was able to match similar patterns and use those to better forecast future movements.
 
 ## Conclusion
 
-Although cosistently forecasting the stock market is a near impossilbe task, the excerise of applying two entirely different algorithms and comparing them to baseline approaches, outlined a simple overview of how ML models can assist in everyday activites, such as trading. Obviously, this is just the beginning to understanding the markets, and there are a lot of other factors that are important to consider for more in-depth analysis such as: portfolio construction, risk mitigation, money management, etc...
+Although cosistently forecasting the stock market is a near impossilbe task, the excerise of applying two entirely different algorithms and comparing them to baseline approaches, outlined a simple overview of how ML models can assist in everyday activites, such as trading. This is just the beginning to understanding the markets, and there are a lot of other factors that are important to consider for more in-depth analysis such as: portfolio construction, risk mitigation, money management, etc...
 
 ## Language Used
 
