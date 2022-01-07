@@ -2,7 +2,7 @@
 
 The purpose of this project is to focus on the technical aspects of the stock market, in an attempt to develop a trading strategy that increases potential future gains. The financial instrument analyzed is the SPY ETF (sourced from Yahoo! and Google), which represents the stocks from the S&P 500.
 
-Throughout the forecasting process, two different machine learning algorithms were utilized and benchmarked against each other to determine the optimal strategy: Support Vector Modeling (more specifically, Support Vector Regression) and Dynamic Time Warping. In addition to the ML models, basic intraday and overnight strategies were used as a baseline to analyze how effective the ML models were in beating a simple trading strategy. Each strategy was assessed by a few statistical/financial metrics, such as, overall trade quantity, gains (wins), losses, averages, standard deviation (volitatilty), and the Sharpe Ratio.
+Throughout the forecasting process, two different machine learning algorithms were utilized and benchmarked against each other to determine the optimal strategy: Support Vector Modeling (more specifically, Support Vector Regression) and Dynamic Time Warping (DTW). In addition to the ML models, basic intraday and overnight strategies were used as a baseline to analyze how effective the ML models were in beating a simple trading strategy. Each strategy was assessed by a few statistical/financial metrics, such as, overall trade quantity, gains (wins), losses, averages, standard deviation (volitatilty), and the Sharpe Ratio.
 
 ## Support Vector Regression
 
